@@ -1,0 +1,90 @@
+{
+  "common": {
+    "home": "Accueil",
+    "characters": "Personnages",
+    "houses": "Maisons",
+    "books": "Livres",
+    "showMore": "Voir plus",
+    "language": "Langue",
+    "error": {
+      "messageError": "Oops ! Une erreur s'est produite, veuillez réessayer",
+      "backHome": "Retourner à l'accueil",
+      "reload":"Actualiser la page",
+      "pageNotFound":"Oops ! Page introuvable ... "
+    },
+    "pages": {
+      "characters": {
+        "autoCompleteSearch": "Rechercher un personnage",
+        "search": "Rechercher",
+        "name": "Nom",
+        "gender": "Genre",
+        "culture": "Culture",
+        "born": "Date de naissance",
+        "died": "Date de mort",
+        "title": "Titre(s)",
+        "aliases": "Surnom(s)",
+        "father": "Père",
+        "mother": "Mère",
+        "spouse": "Épou(x)(se)",
+        "allegiances": "Allégeance(s)",
+        "books": "Livre(s)",
+        "povBooks": "Livre(s) contenant un chapitre dédié",
+        "series": "Série(s)",
+        "actor": "Acteur",
+        "alive": "En vie",
+        "dead": "Décédé",
+        "isAlive": "En vie ou décédé",
+        "men": "Hommes",
+        "women": "Femmes",
+        "noName": "Non renseigné",
+        "tabs":{
+          "generalInfos": "Informations générales",
+          "allegiances": "Maisons",
+          "books": "Livres & séries"
+        }
+      },
+      "houses": {
+        "name": "Nom",
+        "region": "Région",
+        "coatOfArms": "Blason",
+        "words": "Devise",
+        "titles": "Titres",
+        "seats": "Sièges",
+        "currentLord": "Seigneur actuel",
+        "heir": "Héritier",
+        "overlord": "Allégeance",
+        "founded": "Fondé",
+        "founder": "Fondateur",
+        "diedOut": "Éteinte",
+        "cadetBranches": "Maisons fondées",
+        "swornMembers": "Membres assermentés",
+        "ancestralWeapons": "Armes ancestrales",
+        "hasAncestralWeapons": "Possède des armes ancestrales",
+        "hasntAncestralWeapons": "Ne possède pas d'armes ancestrales",
+        "hasDiedOut": "Maisons éteintes",
+        "hasntDiedOut": "Non éteintes",
+        "tabs":{
+          "generalInfos": "Informations générales",
+          "members": "Membres",
+          "weapons": "Armes"
+        }
+      },
+      "books": {
+        "name": "Nom",
+        "isbn":"ISBN",
+        "authors":"Auteurs",        
+        "numberOfPages": "Nombre de page",
+        "publisher": "Éditeur",
+        "country":"Pays",
+        "mediaType": "Type de livre",
+        "released":"Date de sortie",
+        "characters":"Personnages figurant dans le livre",
+        "povCharacters":"Personnages ayant un chapitre dédié dans le livre",
+        "tabs":{
+          "generalInfos": "Informations générales",
+          "characters": "Personnages"
+        }
+      }
+    }
+  }
+}

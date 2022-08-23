@@ -1,0 +1,86 @@
+{
+  "common": {
+    "home": "Home",
+    "characters": "Characters",
+    "houses": "Houses",
+    "books": "Books",
+    "showMore": "Show more",
+    "language": "Language",
+    "error": {
+      "messageError": "Oops ! An error occured, please try again",
+      "backHome": "Go back home",
+      "reload": "Refresh page",
+      "pageNotFound": "Oops ! Page not found ... "
+    },
+    "pages": {
+      "characters": {
+        "autoCompleteSearch": "Search character",
+        "search": "Search",
+        "name": "Name",
+        "gender": "Gender",
+        "culture": "Culture",
+        "born": "Born date",
+        "died": "Death date",
+        "title": "Title",
+        "aliases": "Aliases",
+        "father": "Father",
+        "mother": "Mother",
+        "spouse": "Spouse",
+        "allegiances": "Allegiances",
+        "books": "Books",
+        "povBooks": "Books with a POV-chapter in",
+        "series": "Series",
+        "actor": "Actor",
+        "alive": "Alive",
+        "isAlive": "Alive or dead",
+        "dead": "Dead",
+        "men": "Men",
+        "women": "Women",
+        "noName": "No information",
+        "tabs": {
+          "generalInfos": "General informations",
+          "allegiances": "Allegiances",
+          "books": "Books & Series"
+        }
+      },
+      "houses": {
+        "name": "Name",
+        "region": "Region",
+        "coatOfArms": "Coat of arms",
+        "words": "Words",
+        "titles": "Titles",
+        "seats": "Seats",
+        "currentLord": "Current Lord",
+        "heir": "Heir",
+        "overlord": "Overlord",
+        "founded": "Founded",
+        "founder": "Founder",
+        "diedOut": "Extinct",
+        "cadetBranches": "Cadet Branches",
+        "swornMembers": "Sworn members",
+        "ancestralWeapons": "Ancestral weapons",
+        "hasAncestralWeapons": "Has ancestral weapons",
+        "hasntAncestralWeapons": "Has not ancetral weapons",
+        "hasDiedOut": "Is extinct",
+        "hasntDiedOut": "Is not extinct",
+        "tabs": {
+          "generalInfos": "General informations",
+          "members": "Members",
+          "weapons": "Weapons"
+        }
+      },
+      "books": {
+        "name": "Name",
+        "isbn":"ISBN",
+        "authors":"Authors",  
+        "numberOfPages": "Number of pages",
+        "publisher": "Publisher",
+        "country":"Country",
+        "mediaType": "Media type",
+        "released":"Released",
+        "characters":"Characters that has been in this book",
+        "povCharacters":"Characters that had a POV-chapter in this book"
+      }
+    }
+  }
+}
